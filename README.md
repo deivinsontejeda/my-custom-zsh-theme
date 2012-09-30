@@ -5,7 +5,7 @@ Always I can figure out the way to I feel me more comfortable with my pront, bec
 
 You can check out the article clicking: http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/
 
-How to install?
+Usage
 --------------
 
 I assumed that you know how work oh-my-zsh shell, any dout about this one please see [the documentation](https://github.com/robbyrussell/oh-my-zsh)
