@@ -10,13 +10,13 @@ Usage
 
 I assumed that you know how work oh-my-zsh shell, any dout about this one please see [the documentation](https://github.com/robbyrussell/oh-my-zsh)
 
-`~ wget https://raw.github.com/deivinsontejeda/my-custom-zsh-theme/master/whatever.zsh-theme --no-check-certificate` 
+`$ wget  --no-check-certificate https://raw.github.com/deivinsontejeda/my-custom-zsh-theme/master/whatever.zsh-theme` 
 
 After downloaded move this file into ~/.oh-my-zsh/themes 
 
 set `ZSH_THEME` in ~/.zshrc to `whatever`
 
-At last, reload your terminal run: `~ source ~/.zshrc`
+At last, reload your terminal run: `$ source ~/.zshrc`
 
 Any recomendation?
 -----------------
