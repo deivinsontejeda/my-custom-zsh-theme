@@ -1,14 +1,14 @@
 Welcome
 =============
 
-Always I can figure out the way to I feel me more comfortable with my pront, because I spend a lot of time in this one, recently I came across with a post interesting that did help me improve my pront.
+I always figure out the way feel more comfortable with my pront, because I spend a lot of time in this one, recently I came across with a post interesting that help me improve it.
 
-You can check out [the article](clicking: http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
+You can check out [the article](http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
 
 Usage
 --------------
 
-I assumed that you know how work oh-my-zsh shell, any dout about this one please see [the documentation](https://github.com/robbyrussell/oh-my-zsh)
+I assumed you know how work oh-my-zsh shell, any dout about this one please see [the documentation](https://github.com/robbyrussell/oh-my-zsh)
 
 `$ wget  --no-check-certificate https://raw.github.com/deivinsontejeda/my-custom-zsh-theme/master/whatever.zsh-theme` 
 
